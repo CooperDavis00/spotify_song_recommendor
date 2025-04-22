@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Dataset files (optional, depending on if you want to keep them versioned)
+*.csv
+
+
